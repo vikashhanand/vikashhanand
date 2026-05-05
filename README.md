@@ -1,24 +1,21 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Vikash%20Anand&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/vikashhanand">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vikash+👋;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Competitive+Programmer;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
-</a>
+![Full Stack Developer](https://img.shields.io/badge/👋_Hey!_I'm_Vikash-Full_Stack_Developer-00b4d8?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Expert-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Builder-ffffff?style=for-the-badge&logo=next.js&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br/>
+<br/><br/>
 
-<!-- Badges Row -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00b4d8?style=for-the-badge)](https://www.vikashhanand.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikashhanand)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/vikashhanand)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:vikashhanand@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikashhanand)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vikashhanand)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashhanand@gmail.com)
 
 <br/>
 
-<!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=vikashhanand&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -31,13 +28,12 @@
 const vikash = {
   role:       "Full Stack Developer & Software Engineer",
   location:   "Chandigarh, India 🇮🇳",
-  languages:  ["JavaScript", "TypeScript", "C++", "Python"],
+  languages:  ["JavaScript", "TypeScript", "C++"],
   frontend:   ["React", "Next.js", "TailwindCSS", "Framer"],
   backend:    ["Node.js", "Express", "FastAPI"],
   databases:  ["MongoDB", "MySQL", "Firebase"],
-  devOps:     ["Git", "GitHub", "Vercel", "Netlify", "Render"],
-  tools:      ["Figma", "Canva", "Postman", "Codeberg"],
-  passions:   ["Clean Code 🧹", "Problem Solving 🧩", "Open Source 🌍"],
+  devOps:     ["Git", "Vercel", "Netlify", "Render"],
+  tools:      ["Figma", "Canva", "Postman"],
   funFact:    "I debug better at 2AM ☕",
 };
 ```
@@ -59,7 +55,7 @@ const vikash = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-### 🔧 Backend & DB
+### 🔧 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -81,17 +77,44 @@ const vikash = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikashhanand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00b4d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashhanand&layout=compact&theme=tokyonight&border_color=00b4d8"/>
+<!-- 
+  USING github-profile-summary-cards — works for ALL accounts, no rate limits
+  Source: https://github.com/vn7n24fzkq/github-profile-summary-cards
+-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikashhanand&theme=tokyonight)
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vikashhanand&theme=tokyonight&border=00b4d8&ring=00b4d8&fire=ff6b6b)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikashhanand&theme=tokyonight)
+&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikashhanand&theme=tokyonight)
 
 <br/>
 
-<!-- Activity Graph -->
-[![Vikash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikashhanand&theme=tokyo-night&border_color=00b4d8&color=00b4d8&line=0077b6&point=ffffff)](https://github.com/vikashhanand)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikashhanand&theme=tokyonight)
+&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikashhanand&theme=tokyonight&utcOffset=5.5)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=vikashhanand&theme=tokyonight&border=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashhanand&theme=tokyo-night&border_color=00b4d8&color=00b4d8&line=0077b6&point=ffffff&area=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -101,23 +124,23 @@ const vikash = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikashhanand&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/vikashhanand)
+<img src="https://github-profile-trophy.vercel.app/?username=vikashhanand&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_vikashhanand.online-Visit_Now-00b4d8?style=for-the-badge)](https://www.vikashhanand.online)
 
-*"Any fool can write code that a computer can understand.*
-*Good programmers write code that humans can understand."*
-*— Martin Fowler*
+<br/>
+
+*"Any fool can write code that a computer can understand.*  
+*Good programmers write code that humans can understand." — Martin Fowler*
 
 </div>
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=120&section=footer" width="100%"/>
